@@ -1,0 +1,5 @@
+D:\Code\Practice\InterviewPreperation\InterviewPreperation\InterviewPreperation\obj\Debug\net6.0-windows\InterviewPreperation.csproj.AssemblyReference.cache
+D:\Code\Practice\InterviewPreperation\InterviewPreperation\InterviewPreperation\obj\Debug\net6.0-windows\InterviewPreperation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Practice\InterviewPreperation\InterviewPreperation\InterviewPreperation\obj\Debug\net6.0-windows\InterviewPreperation.AssemblyInfoInputs.cache
+D:\Code\Practice\InterviewPreperation\InterviewPreperation\InterviewPreperation\obj\Debug\net6.0-windows\InterviewPreperation.AssemblyInfo.cs
+D:\Code\Practice\InterviewPreperation\InterviewPreperation\InterviewPreperation\obj\Debug\net6.0-windows\InterviewPreperation.csproj.CoreCompileInputs.cache

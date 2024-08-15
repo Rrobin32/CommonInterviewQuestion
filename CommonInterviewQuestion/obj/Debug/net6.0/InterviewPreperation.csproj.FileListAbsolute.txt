@@ -1,0 +1,14 @@
+D:\Code\Practice\InterviewPreperation\InterviewPreperation\InterviewPreperation\obj\Debug\net6.0\InterviewPreperation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Practice\InterviewPreperation\InterviewPreperation\InterviewPreperation\obj\Debug\net6.0\InterviewPreperation.AssemblyInfoInputs.cache
+D:\Code\Practice\InterviewPreperation\InterviewPreperation\InterviewPreperation\obj\Debug\net6.0\InterviewPreperation.AssemblyInfo.cs
+D:\Code\Practice\InterviewPreperation\InterviewPreperation\InterviewPreperation\obj\Debug\net6.0\InterviewPreperation.csproj.CoreCompileInputs.cache
+D:\Code\Practice\InterviewPreperation\InterviewPreperation\InterviewPreperation\bin\Debug\net6.0\InterviewPreperation.exe
+D:\Code\Practice\InterviewPreperation\InterviewPreperation\InterviewPreperation\bin\Debug\net6.0\InterviewPreperation.deps.json
+D:\Code\Practice\InterviewPreperation\InterviewPreperation\InterviewPreperation\bin\Debug\net6.0\InterviewPreperation.runtimeconfig.json
+D:\Code\Practice\InterviewPreperation\InterviewPreperation\InterviewPreperation\bin\Debug\net6.0\InterviewPreperation.dll
+D:\Code\Practice\InterviewPreperation\InterviewPreperation\InterviewPreperation\bin\Debug\net6.0\InterviewPreperation.pdb
+D:\Code\Practice\InterviewPreperation\InterviewPreperation\InterviewPreperation\obj\Debug\net6.0\InterviewPreperation.dll
+D:\Code\Practice\InterviewPreperation\InterviewPreperation\InterviewPreperation\obj\Debug\net6.0\refint\InterviewPreperation.dll
+D:\Code\Practice\InterviewPreperation\InterviewPreperation\InterviewPreperation\obj\Debug\net6.0\InterviewPreperation.pdb
+D:\Code\Practice\InterviewPreperation\InterviewPreperation\InterviewPreperation\obj\Debug\net6.0\InterviewPreperation.genruntimeconfig.cache
+D:\Code\Practice\InterviewPreperation\InterviewPreperation\InterviewPreperation\obj\Debug\net6.0\ref\InterviewPreperation.dll
