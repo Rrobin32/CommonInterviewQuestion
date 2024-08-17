@@ -1,12 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Code\\Practice\\InterviewPreperation\\InterviewPreperation\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\constructorinabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\constructorinabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\commoninterviewquestion.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommonInterviewQuestion",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion.csproj",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\CommonInterviewQuestion.csproj",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion.csproj",
+              "RelativeToolTip": "CommonInterviewQuestion\\CommonInterviewQuestion.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-17T09:47:08.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConstructorInAbstract.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\ConstructorInAbstract.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\ConstructorInAbstract.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\ConstructorInAbstract.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\ConstructorInAbstract.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T09:42:05.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
