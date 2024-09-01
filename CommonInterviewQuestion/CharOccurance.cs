@@ -31,8 +31,7 @@ namespace CommonInterviewQuestion
             {
                 if (charOccurance.ContainsKey(c))
                 {
-                    int occurance = charOccurance[c];
-                    charOccurance[c] = occurance+1;
+                    charOccurance[c]++;
                 }
                 else
                 {
