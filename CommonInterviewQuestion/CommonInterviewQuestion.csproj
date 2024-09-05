@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>CommonInterviewQuestion.RightCircularRotation</StartupObject>
+    <StartupObject>CommonInterviewQuestion.ReverseEachWord</StartupObject>
   </PropertyGroup>
 
 </Project>
