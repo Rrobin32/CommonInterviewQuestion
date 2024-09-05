@@ -11,13 +11,17 @@ namespace CommonInterviewQuestion
         public static void Main(string[] args)
         {
             int[] arr = { 4, 5, 6, 7, 8, 9, 1, 2, 3 };
-            int largestElement = arr[0], secondLargestElement = arr[0];
-            for (int i = 0; i < arr.Length; i++)
+            int largestElement = int.MinValue, secondLargestElement = int.MinValue;
+            foreach (int i in arr)
             {
-                if (largestElement < arr[i])
+                if (i > largestElement)
                 {
                     secondLargestElement = largestElement;
-                    largestElement = arr[i];
+                    largestElement = i;
+                }
+                else if (i >= secondLargestElement && i != largestElement)
+                {
+                    secondLargestElement = i;
                 }
             }
 
