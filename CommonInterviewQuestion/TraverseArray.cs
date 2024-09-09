@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InterviewPreperation
+namespace CommonInterviewQuestion
 {
     public class TraverseArray
     {
@@ -19,7 +19,7 @@ namespace InterviewPreperation
             TraverseArray traverseArray = new TraverseArray();
             if (position == 0)
             {
-                if (position == 0 && (array[position + 1] > 0 && array[position] > 0))
+                if (position == 0 && array[position + 1] > 0 && array[position] > 0)
                 {
                     traverseArray.Split(array, position, out arrayLeft, out arrayRight);
                     positiveIndexes = Array.IndexOf(arrayRight, 0);

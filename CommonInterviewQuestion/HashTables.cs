@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InterviewPreperation
+namespace CommonInterviewQuestion
 {
     public class HashTables
     {
@@ -114,7 +114,7 @@ namespace InterviewPreperation
             return x;
         }
 
-        public Single func(float t)
+        public float func(float t)
         {
             t = t + 3.4f;
             return t;

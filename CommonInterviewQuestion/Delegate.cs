@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InterviewPreperation
+namespace CommonInterviewQuestion
 {
     internal class Delegate
     {
@@ -14,7 +14,7 @@ namespace InterviewPreperation
 
             Console.WriteLine(add(3, 4));
 
-            Console.ReadLine(); 
+            Console.ReadLine();
         }
     }
 }

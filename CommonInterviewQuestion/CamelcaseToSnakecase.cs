@@ -1,7 +1,7 @@
 ﻿using System.Text;
 
 
-namespace InterviewPreperation
+namespace CommonInterviewQuestion
 {
     public class CamelcaseToSnakecase
     {
@@ -32,7 +32,7 @@ namespace InterviewPreperation
                     }
                     else
                     {
-                        if(c[i]==' ')
+                        if (c[i] == ' ')
                         {
 
                         }
@@ -40,10 +40,10 @@ namespace InterviewPreperation
                         {
                             result.Append(c[i]);
                         }
-                        
+
                     }
                 }
-                
+
             }
             return Convert.ToString(result);
         }

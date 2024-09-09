@@ -31,7 +31,7 @@ namespace CommonInterviewQuestion
     }
 
     // Dynamic Polymorphism (Method Overriding)
-    public class Animal
+    public class Animal1
     {
         public virtual void Speak()
         {
@@ -39,7 +39,7 @@ namespace CommonInterviewQuestion
         }
     }
 
-    public class Dog : Animal
+    public class Dog1 : Animal1
     {
         public override void Speak()
         {
@@ -55,13 +55,13 @@ namespace CommonInterviewQuestion
             Console.WriteLine(calc.Add(2, 3)); // Calls the first Add method
             Console.WriteLine(calc.Add(2, 3, 4)); // Calls the second Add method
 
-            Animal myAnimal = new Animal();
+            Animal1 myAnimal = new Animal1();
             myAnimal.Speak(); // Output: The animal speaks
 
-            Dog myDog = new Dog();
+            Dog1 myDog = new Dog1();
             myDog.Speak(); // Output: Dog barks
 
-            Animal mySecondAnimal = new Dog();
+            Animal1 mySecondAnimal = new Dog1();
             mySecondAnimal.Speak(); // Output: Dog barks, demonstrating dynamic polymorphism
         }
     }

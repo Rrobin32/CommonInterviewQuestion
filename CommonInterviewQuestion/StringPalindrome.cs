@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InterviewPreperation
+namespace CommonInterviewQuestion
 {
     public class StringPalindrome
     {
@@ -17,21 +17,21 @@ namespace InterviewPreperation
         public static bool IsPalindrome(string str)
         {
             int indexFromStart = 0;
-            int indexFromLast = str.Length-1;
+            int indexFromLast = str.Length - 1;
             str = str.ToLower();
             while (indexFromStart <= indexFromLast)
             {
-                if(!(str[indexFromStart] >= 'a' && str[indexFromStart] <= 'z'))
+                if (!(str[indexFromStart] >= 'a' && str[indexFromStart] <= 'z'))
                 {
                     indexFromStart++;
                 }
 
-                else if(!(str[indexFromLast] >= 'a' && str[indexFromLast] <= 'z'))
+                else if (!(str[indexFromLast] >= 'a' && str[indexFromLast] <= 'z'))
                 {
                     indexFromLast--;
                 }
 
-                else if(str[indexFromLast] == str[indexFromStart])
+                else if (str[indexFromLast] == str[indexFromStart])
                 {
                     indexFromLast--;
                     indexFromStart++;

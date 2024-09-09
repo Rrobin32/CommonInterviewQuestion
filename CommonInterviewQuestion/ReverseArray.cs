@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InterviewPreperation
+namespace CommonInterviewQuestion
 {
     public class ReverseArray
     {
@@ -24,7 +24,7 @@ namespace InterviewPreperation
             int index = 0;
             for (int i = array.Length; i > 0; i--)
             {
-                result[index] = array[i-1];
+                result[index] = array[i - 1];
                 index++;
             }
             return result;

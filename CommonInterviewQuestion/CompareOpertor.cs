@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InterviewPreperation
+namespace CommonInterviewQuestion
 {
     class CompareOpertor
     {
@@ -20,7 +20,7 @@ namespace InterviewPreperation
             {
                 Console.WriteLine("Equals Operator : returns false " + str1 + " " + str2);
             }
-            if(str1 == str2)
+            if (str1 == str2)
             {
                 Console.WriteLine(" == Operator : return true " + str1 + " " + str2);
             }

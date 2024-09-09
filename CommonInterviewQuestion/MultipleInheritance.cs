@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InterviewPreperation
+namespace CommonInterviewQuestion
 {
     interface A
     {
@@ -23,8 +23,8 @@ namespace InterviewPreperation
         void B.Print()
         {
             Console.WriteLine("Interface B Print Method.");
-        }  
-        
+        }
+
         public static void Main(string[] args)
         {
             var a = new MultipleInheritance();

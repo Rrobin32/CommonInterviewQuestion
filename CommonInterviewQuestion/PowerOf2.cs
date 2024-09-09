@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InterviewPreperation
+namespace CommonInterviewQuestion
 {
     public class PowerOf2
     {
@@ -36,7 +36,7 @@ namespace InterviewPreperation
             {
                 while (arr[i] % 2 == 0)
                 {
-                    result.Insert(i+1, 1);
+                    result.Insert(i + 1, 1);
                 }
                 result.Insert(i, 0);
             }
