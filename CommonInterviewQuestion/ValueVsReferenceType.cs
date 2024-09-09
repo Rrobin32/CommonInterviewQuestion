@@ -6,6 +6,15 @@ using System.Threading.Tasks;
 
 namespace CommonInterviewQuestion
 {
+    /*
+        Value Types: Store data directly and are allocated on the stack. This means that when you assign one value type to another, 
+        a direct copy of the value is created. Basic data types (int, double, bool, etc.) and structs are examples of value types. 
+        Operations on value types are generally faster due to stack allocation.
+
+        Reference Types: Store a reference (or pointer) to the actual data, which is allocated on the heap. When you assign one reference type to another, 
+        both refer to the same object in memory; changes made through one reference are reflected in the other. Classes, arrays, delegates, and strings are examples of 
+        reference types.
+     */
     internal class ValueVsReferenceType
     {
         public static void Main(string[] args)
