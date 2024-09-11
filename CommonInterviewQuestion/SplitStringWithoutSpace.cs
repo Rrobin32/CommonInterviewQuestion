@@ -8,5 +8,6 @@ namespace CommonInterviewQuestion
 {
     internal class SplitStringWithoutSpace
     {
+
     }
 }
