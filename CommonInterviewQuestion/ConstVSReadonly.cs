@@ -8,7 +8,7 @@ namespace CommonInterviewQuestion
 {
     public class ConstVSReadonly
     {
-        readonly int read = 10;
+        static readonly int read = 10;
         const int cons = 10;
         //public Test()
         //{
@@ -19,6 +19,7 @@ namespace CommonInterviewQuestion
         public static void Main(string[] args)
         {
             ConstVSReadonly constVSReadonly = new ConstVSReadonly();
+            
             constVSReadonly.Check();
         }
         public void Check()

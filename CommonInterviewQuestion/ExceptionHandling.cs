@@ -17,12 +17,20 @@ namespace CommonInterviewQuestion
         {
             try
             {
+                int a = 10;
+                int b = 20;
+                int c = a / b;
+
                 return "A";
             }
             catch (Exception ex)
             {
                 return "B";
             }
+            //catch(DivideByZeroException ex)
+            //{
+
+            //}
             finally
             {
                 //return "C";
