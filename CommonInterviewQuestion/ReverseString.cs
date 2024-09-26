@@ -22,6 +22,14 @@ namespace CommonInterviewQuestion
             string reversedString = new string(chars);
             Console.WriteLine(reversedString);
 
+
+            string result = string.Empty;
+            for (int i = str.Length - 1; i > 0; i--)
+            {
+                result += str[i];
+            }
+
+            Console.WriteLine("reversed with 3rd var: " + reversedString);
             //string str = @"VC3 of is firmly committed to the development of applications using Microsoft's .
             //               NET framework to develop cutting-edge solutions that take advantage of modern design paradigms.";
 
