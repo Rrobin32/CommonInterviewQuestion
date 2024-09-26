@@ -28,7 +28,6 @@ namespace CommonInterviewQuestion
                         }
                     }
                 }
-
                 return threadsafeSingleton;
             }
         }
