@@ -34,6 +34,11 @@ namespace CommonInterviewQuestion
         {
             return a + b;
         }
+
+        public void Print()
+        {
+            Console.WriteLine("print");
+        }
     }
 
 }
