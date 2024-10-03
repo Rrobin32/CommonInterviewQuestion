@@ -18,22 +18,26 @@ namespace CommonInterviewQuestion
             try
             {
                 int a = 10;
-                int b = 20;
+                int b = 0;
                 int c = a / b;
 
                 return "A";
+            } 
+            catch(DivideByZeroException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            catch (NullReferenceException ex)
+            {
+
             }
             catch (Exception ex)
             {
                 return "B";
-            }
-            //catch(DivideByZeroException ex)
-            //{
-
-            //}
+            }           
             finally
             {
-                //return "C";
+                               //return "C";
             }
             return "D";
         }
