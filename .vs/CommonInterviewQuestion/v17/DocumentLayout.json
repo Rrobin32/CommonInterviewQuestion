@@ -3,8 +3,156 @@
   "WorkspaceRootPath": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\asyncawaitsecondlargestelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\asyncawaitsecondlargestelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\threadsafesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\threadsafesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\singletonimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\singletonimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\staticconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\staticconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\commoninterviewquestion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\constructorinabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\constructorinabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\valuevsreferencetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\valuevsreferencetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\throwvsthrowexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\throwvsthrowexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\staticvsdynamicpolymorphism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\staticvsdynamicpolymorphism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\splitstringwithoutspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\splitstringwithoutspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\secondlargestelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\secondlargestelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\rightcircularrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\rightcircularrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\reversestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\reversestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\reversewordorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\reversewordorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\reverseeachword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\reverseeachword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\reversearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\reversearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\removeduplicate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\removeduplicate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\privateconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\privateconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\multithreadingexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\multithreadingexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\multipleinheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\multipleinheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\missingdigit01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\missingdigit01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\missingdigit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\missingdigit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\linqleftjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\linqleftjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\linqexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\linqexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\fibonacci .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\fibonacci .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\exceptionhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\exceptionhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\convert2darrayto1d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\convert2darrayto1d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\constvsreadonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\constvsreadonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\compareopertor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\compareopertor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\allpossiblesubstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\allpossiblesubstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\charoccurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\charoccurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\refvsout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\refvsout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\fibonacciusingrecurssion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\fibonacciusingrecurssion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\interfacestaticmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\interfacestaticmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|d:\\code\\practice\\commoninterviewquestion\\commoninterviewquestion\\commoninterviewquestion\\leftcircularrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE30B58-F863-45B2-90E9-5E1EB1C7A641}|CommonInterviewQuestion\\CommonInterviewQuestion.csproj|solutionrelative:commoninterviewquestion\\leftcircularrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +162,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -26,16 +178,461 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\Program.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\Program.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\Program.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:21:23.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThreadsafeSingleton.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\ThreadsafeSingleton.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\ThreadsafeSingleton.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\ThreadsafeSingleton.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\ThreadsafeSingleton.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:48:34.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ThrowVSThrowException.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\ThrowVSThrowException.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\ThrowVSThrowException.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\ThrowVSThrowException.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\ThrowVSThrowException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:25:57.349Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AsyncAwaitSecondlargestElement.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\AsyncAwaitSecondlargestElement.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\AsyncAwaitSecondlargestElement.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\AsyncAwaitSecondlargestElement.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\AsyncAwaitSecondlargestElement.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAuwDMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:13:07.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SplitStringWithoutSpace.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\SplitStringWithoutSpace.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\SplitStringWithoutSpace.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\SplitStringWithoutSpace.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\SplitStringWithoutSpace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T17:19:12.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConstructorInAbstract.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\ConstructorInAbstract.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\ConstructorInAbstract.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\ConstructorInAbstract.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\ConstructorInAbstract.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T04:18:20.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StaticConstructor.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\StaticConstructor.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\StaticConstructor.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\StaticConstructor.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\StaticConstructor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T05:19:52.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SingletonImplementation.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\SingletonImplementation.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\SingletonImplementation.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\SingletonImplementation.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\SingletonImplementation.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T16:03:52.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommonInterviewQuestion.csproj",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion.csproj",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\CommonInterviewQuestion.csproj",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion.csproj",
+              "RelativeToolTip": "CommonInterviewQuestion\\CommonInterviewQuestion.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T17:07:53.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StaticVSDynamicPolymorphism.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\StaticVSDynamicPolymorphism.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\StaticVSDynamicPolymorphism.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\StaticVSDynamicPolymorphism.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\StaticVSDynamicPolymorphism.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T17:01:09.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ValueVsReferenceType.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\ValueVsReferenceType.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\ValueVsReferenceType.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\ValueVsReferenceType.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\ValueVsReferenceType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T16:39:06.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SecondLargestElement.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\SecondLargestElement.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\SecondLargestElement.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\SecondLargestElement.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\SecondLargestElement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:59:40.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RightCircularRotation.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\RightCircularRotation.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\RightCircularRotation.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\RightCircularRotation.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\RightCircularRotation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T16:26:02.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReverseString.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\ReverseString.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\ReverseString.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\ReverseString.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\ReverseString.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T17:19:23.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReverseWordOrder.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\ReverseWordOrder.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\ReverseWordOrder.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\ReverseWordOrder.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\ReverseWordOrder.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:02:54.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReverseEachWord.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\ReverseEachWord.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\ReverseEachWord.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\ReverseEachWord.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\ReverseEachWord.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA+wCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T17:35:50.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReverseArray.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\ReverseArray.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\ReverseArray.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\ReverseArray.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\ReverseArray.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T17:35:35.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RemoveDuplicate.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\RemoveDuplicate.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\RemoveDuplicate.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\RemoveDuplicate.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\RemoveDuplicate.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:48:51.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PrivateConstructor.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\PrivateConstructor.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\PrivateConstructor.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\PrivateConstructor.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\PrivateConstructor.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:45:45.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "MultithreadingExample.cs",
               "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\MultithreadingExample.cs",
               "RelativeDocumentMoniker": "CommonInterviewQuestion\\MultithreadingExample.cs",
               "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\MultithreadingExample.cs",
               "RelativeToolTip": "CommonInterviewQuestion\\MultithreadingExample.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T15:10:38.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T04:19:46.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MissingDigit01.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\MissingDigit01.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\MissingDigit01.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\MissingDigit01.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\MissingDigit01.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAAAJQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T11:52:40.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MissingDigit.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\MissingDigit.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\MissingDigit.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\MissingDigit.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\MissingDigit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:42:34.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LINQLeftJoin.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\LINQLeftJoin.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\LINQLeftJoin.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\LINQLeftJoin.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\LINQLeftJoin.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T16:59:43.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LinqExample.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\LinqExample.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\LinqExample.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\LinqExample.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\LinqExample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T04:19:22.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Factorial.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\Factorial.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\Factorial.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\Factorial.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\Factorial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:14:25.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ExceptionHandling.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\ExceptionHandling.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\ExceptionHandling.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\ExceptionHandling.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\ExceptionHandling.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:25:26.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Delegate.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\Delegate.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\Delegate.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\Delegate.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\Delegate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:03:17.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MultipleInheritance.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\MultipleInheritance.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\MultipleInheritance.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\MultipleInheritance.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\MultipleInheritance.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAuwAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T17:11:34.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Convert2DArrayTo1D.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\Convert2DArrayTo1D.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\Convert2DArrayTo1D.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\Convert2DArrayTo1D.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\Convert2DArrayTo1D.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:24:10.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ConstVSReadonly.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\ConstVSReadonly.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\ConstVSReadonly.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\ConstVSReadonly.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\ConstVSReadonly.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:19:56.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CompareOpertor.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\CompareOpertor.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\CompareOpertor.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\CompareOpertor.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\CompareOpertor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T04:18:17.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Fibonacci .cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\Fibonacci .cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\Fibonacci .cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\Fibonacci .cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\Fibonacci .cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T17:50:39.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RefVSOut.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\RefVSOut.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\RefVSOut.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\RefVSOut.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\RefVSOut.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:03:34.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CharOccurance.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\CharOccurance.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\CharOccurance.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\CharOccurance.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\CharOccurance.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:14:54.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AllPossibleSubstring.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\AllPossibleSubstring.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\AllPossibleSubstring.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\AllPossibleSubstring.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\AllPossibleSubstring.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T16:06:43.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FibonacciUsingRecurssion.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\FibonacciUsingRecurssion.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\FibonacciUsingRecurssion.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\FibonacciUsingRecurssion.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\FibonacciUsingRecurssion.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T02:06:44.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "InterfaceStaticMethod.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\InterfaceStaticMethod.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\InterfaceStaticMethod.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\InterfaceStaticMethod.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\InterfaceStaticMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T17:50:17.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LeftCircularRotation.cs",
+              "DocumentMoniker": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\LeftCircularRotation.cs",
+              "RelativeDocumentMoniker": "CommonInterviewQuestion\\LeftCircularRotation.cs",
+              "ToolTip": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\LeftCircularRotation.cs",
+              "RelativeToolTip": "CommonInterviewQuestion\\LeftCircularRotation.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T16:05:23.269Z"
             }
           ]
         }

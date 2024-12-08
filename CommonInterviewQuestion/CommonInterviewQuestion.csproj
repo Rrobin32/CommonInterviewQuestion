@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>CommonInterviewQuestion.InterfaceStaticMethod</StartupObject>
+    <StartupObject>CommonInterviewQuestion.StaticConstructor</StartupObject>
   </PropertyGroup>
 
 </Project>

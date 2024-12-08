@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion.csproj",
+      "projectUniqueName": "E:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion.csproj",
       "projectName": "CommonInterviewQuestion",
-      "projectPath": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion.csproj",
+      "projectPath": "E:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion.csproj",
       "packagesPath": "C:\\Users\\rakes\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\obj\\",
+      "outputPath": "E:\\Code\\Practice\\CommonInterviewQuestion\\CommonInterviewQuestion\\CommonInterviewQuestion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rakes\\AppData\\Roaming\\NuGet\\NuGet.Config",

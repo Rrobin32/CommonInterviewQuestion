@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CommonInterviewQuestion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3258c2b9bbf6cc0a100d143fbe1612a03452c5d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f154383f9675f385c0948d7d8bd5881ff81c1cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("CommonInterviewQuestion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CommonInterviewQuestion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

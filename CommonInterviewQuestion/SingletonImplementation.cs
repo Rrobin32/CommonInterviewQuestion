@@ -8,7 +8,7 @@ namespace CommonInterviewQuestion
 {
     internal sealed class SingletonImplementation
     {
-        public SingletonImplementation() { }
+        private SingletonImplementation() { }
 
         private static SingletonImplementation instance;
         public static SingletonImplementation singleton
